@@ -1,0 +1,4 @@
+[submodule "hackyfriedrich/public"]
+	path = hackyfriedrich/public
+	url = https://github.com/friedrichwilken/hackyfriedrich.github.io.git
+	branch = main
