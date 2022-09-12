@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://friedrichwilken.github.io/sitemap.xml
