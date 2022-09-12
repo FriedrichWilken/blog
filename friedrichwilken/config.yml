@@ -1,6 +1,6 @@
-baseURL: https://hackyfriedrich.github.io/
+baseURL: https://friedrichwilken.github.io/
 languageCode: en-us
-title: hackyfriedrich
+title: friedrichwilken
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -11,7 +11,7 @@ buildExpired: false
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
-  description: "hacky friedrich"
+  description: "hacky, hacky friedrich"
   keywords: [Blog, Portfolio, PaperMod]
   author: Friedrich
   DateFormat: "January 2, 2006"
@@ -73,7 +73,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/friedrichwilken/blog/hackyfriedrich/content"
+    URL: "https://github.com/friedrichwilken/blog/friedrichwilken/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
