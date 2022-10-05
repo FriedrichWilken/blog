@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Desc Text."
+description: "quick overview on was done to create this blog"
 canonicalURL: "https://friedrichwilken.github.io"
 disableHLJS: true # to disable highlightjs
 disableShare: false
