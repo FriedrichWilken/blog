@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/friedrichwilken/blog/friedrichwilken/content"
+    URL: "https://github.com/friedrichwilken/blog/friedrichwilken/content/posts"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
