@@ -1,5 +1,5 @@
 ---
-title: "Summary: Unit⋅Testing:⋅Principles,⋅Practices⋅and⋅Patterns. Pt. 1"
+title: "Summary: Unit Testing: Principles, Practices and Patterns. Pt. 1"
 date: 2022-10-05T23:00:00+00:00
 tags: ["go","unit-test","test","summary"]
 author: "Friedrich"
@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Desc Text."
+description: "My summary of the book on unit tests from Vladimir Khorikov"
 canonicalURL: "https://friedrichwilken.github.io"
 disableHLJS: true # to disable highlightjs
 disableShare: false
