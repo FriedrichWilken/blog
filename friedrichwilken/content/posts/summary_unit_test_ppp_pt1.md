@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "Summary: Unit⋅Testing:⋅Principles,⋅Practices⋅and⋅Patterns. Pt. 1"
 date: 2022-10-05T23:00:00+00:00
 tags: ["go","unit-test","test","summary"]
 author: "Friedrich"
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/friedrichwilken/blog/friedrichwilken/content/"
+    URL: "https://github.com/friedrichwilken/blog/friedrichwilken/content/posts"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
